@@ -1,4 +1,4 @@
-# ATM_Assignment-
+# ATM_Python_code-
 
 Simple ATM Program
 Here I'm using a File method so if you are running this code on your system ,kindly create your account first then you can check whether
